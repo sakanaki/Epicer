@@ -16,6 +16,6 @@ EPIC-ER 是一個料理生活平台。
 
 負責系統：
 會員系統－游語穠  
-> 程式碼於 com.epicer.****.users
+> 程式碼於 Epicer/EpicerSpringBoot/src/main/java/com/epicer/****/users
 
 
